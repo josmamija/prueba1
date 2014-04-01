@@ -1,0 +1,13 @@
+# Ignorando JPG's y PNG's
+/*.jpg
+/*.jpeg
+/*.png
+# Ignorando mp3
+/*.mp3
+# Ignorando la Carpeta Vacía
+
+/empty
+
+# Ignorando un Archivo individual
+
+/archivo.dumm
